@@ -1,6 +1,6 @@
 # Original Description
 
-This is derived from a quiz posted on rubyquiz.com see: http://rubyquiz.com/quiz2.html
+This is derived from a quiz posted on rubyquiz.com see: http://rubyquiz.com/quiz2.html. Don't forget to review the [Assessment Criteria](README.md#assessment-criteria) in the top level readme.
 
 ## Problem Description
 
@@ -41,10 +41,22 @@ Allocating secret santas
     When I allocate secret santas
     Santas are not paired when they are related
 
-### Story 3 (Stretch goal)
+### Story 3 (Stretch goal - Front end)
 
-    Email the santas
+    Provide a web based front end for the service that allows users to add (and only add) names and email addresses. This solution does not need to preserve data, so on refreshing the page the list will be empty, ready to be used again. This could be hosted online if you wanted, or could run locally. 
 
     As a user
-    When I allocate secret santas
-    The santas are emailed, so nobody can cheat
+    When I go to a web page
+    I can add a secret santa participant to a list
+
+### Story 4 (tretch goal - Back end)
+
+    Provide an API that when called enables CRUD against a single secret santa list. The API does not need to have any kind of front end, it should be able to be interacted with directly via HTTP requests (sent via a tool such as Postman). This could be hosted online if you wanted, or could run locally. 
+
+    As a user
+    When I submit a CRUD request relating to a single secret santa participant
+    The secret santa participant is updated appropriately
+
+    As a user
+    When I submit the right request
+    I recieve the full secret santa list

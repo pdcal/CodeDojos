@@ -9,9 +9,7 @@ Let's take a look at one
     https://gfycat.com/SpotlessImpracticalCockatoo
 
 
-In this kata, we're going to build our own human readable URL generator. Be creative with your source data. Make some really memorable URLs.
-
-We're going to make a program that shortens URLs for us.
+In this kata, we're going to build our own human readable URL generator. Be creative with your source data. Make some really memorable URLs. We're going to make a program that shortens URLs for us. Don't forget to review the [Assessment Criteria](README.md#assessment-criteria) in the top level readme.
 
 # Story 1 - Generate readable URLs
 

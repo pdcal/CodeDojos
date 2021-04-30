@@ -1,6 +1,6 @@
 # Original Description
 
-This is derived from a quiz posted on rubyquiz.com see: http://rubyquiz.com/quiz2.html. Don't forget to review the [Assessment Criteria](https://github.com/pdcal/CodeDojos) in the top level or this repo.
+This is derived from a quiz posted on rubyquiz.com see: http://rubyquiz.com/quiz2.html. Don't forget to review the [Assessment Criteria](https://github.com/pdcal/CodeDojos) in the top level of this repo.
 
 ## Problem Description
 

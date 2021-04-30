@@ -1,8 +1,4 @@
-# Original Description
-
-This is derived from a quiz posted on rubyquiz.com see: http://rubyquiz.com/quiz2.html. Don't forget to review the [Assessment Criteria](https://github.com/pdcal/CodeDojos) in the top level of this repo.
-
-## Problem Description
+## Technical Challenge
 
 Secret Santa is a game played by friends around the world to add a little mystery into seasonal gift giving.
 
@@ -24,6 +20,8 @@ Here are some sample names:
   Virgil Brigman   [virgil@rigworkersunion.org]
   Lindsey Brigman  [lindsey@iseealiens.net]
 </pre>
+
+**Don't forget to review the [Assessment Criteria](https://github.com/pdcal/CodeDojos) in the top level of this repo.**
 
 ### Story 1
 
@@ -60,3 +58,6 @@ Provide an API that when called enables CRUD against a single secret santa list.
     As a user
     When I submit the right request
     The allocated list of secret santas is returned
+
+## Original Source 
+This is derived from a quiz posted on rubyquiz.com see: http://rubyquiz.com/quiz2.html, as reworked by David Whitney: https://github.com/davidwhitney/CodeDojos/tree/master/SecretSanta
